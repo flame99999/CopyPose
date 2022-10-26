@@ -10,3 +10,5 @@ Download package file from [releases](https://github.com/flame99999/CopyPose/rel
 - Click "Window/Copy Pose" to open the editor window
 - Fill in source model, targe models and check "Humanoid Mapping" if needed, then click "Copy pose" button to apply
 ![demo](https://github.com/flame99999/CopyPose/blob/main/Assets/Sample/CopyPoseUsage.gif)
+## License
+* MIT
