@@ -1,0 +1,10 @@
+{
+  "name": "com.flamearthur.copypose",
+  "displayName": "Copy Pose",
+  "description": "Provide function for copying pose for objects with bones",
+  "version": "1.0.0",
+  "author": {
+    "name": "FlameArthur",
+    "url": "https://github.com/flame99999"
+  }
+}
